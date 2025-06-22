@@ -1,0 +1,10 @@
+{
+    "company_name": "2.(a)  Name of the company",
+    "cin": "Corporate identity number (CIN) of company",
+    "registered_office": "(b) Address of the registered office",
+    "appointment_date": "Date of appointment",
+    "auditor_name": "Name of the auditor or auditor's firm",
+    "auditor_address": "Address of the Auditor                    Line I",
+    "auditor_frn_or_membership": "Membership Number of auditor or auditor's firm's registration number",
+    "appointment_type": "New Appointment"
+}
